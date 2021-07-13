@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-### Aboute me
+### About me
 
 - :brazil: Sergipe, **Brazil**
 - :brain: I currently work as :cloud: **Cloud Architect** with a focus on **AWS** and **Azure** and :man_teacher: I'm a university professor too.
