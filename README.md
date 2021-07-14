@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-### About me
+### A little about myself
 
 - :brazil: Sergipe, **Brazil**
 - :brain: I currently work as :cloud: **Cloud Architect** with a focus on **AWS** and **Azure** and :man_teacher: I'm a university professor too.
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://shields.io/category/funding
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#tool
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
