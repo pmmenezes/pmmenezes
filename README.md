@@ -1,7 +1,10 @@
 
-# Welcome to Pablo's GitHub. 
+<h1 align="center"> 
+Welcome to Pablo's GitHub. 
+</h1>
 
 ## Hi there 👋
+
 
 ### A little about myself
 
@@ -36,6 +39,13 @@
 
 -->
 
+[![Pablo github stats](https://github-readme-stats.vercel.app/api?username=pmmenezes&theme=nord&show_icons=true)](https://github.com/pmmenezes/github-readme-stats)
+
+### 💡  Languages 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmmenezes&hide=scss&layout=compact&theme=nord&title_color=2ED3EA)
+
+<hr>
+
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb8may/)](https://www.linkedin.com/in/pmmenezes/)
@@ -55,8 +65,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://shields.io/category/funding
+https://simpleicons.org/
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#tool
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md#temas
+https://b64.io/
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
 -->
