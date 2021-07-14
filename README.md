@@ -48,8 +48,8 @@ Welcome to Pablo's GitHub.
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb8may/)](https://www.linkedin.com/in/pmmenezes/)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pmmenezes/)](https://www.linkedin.com/in/pmmenezes/)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter)](https://twitter.com/pm_menezes)
 
 <!--
 **pmmenezes/pmmenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
